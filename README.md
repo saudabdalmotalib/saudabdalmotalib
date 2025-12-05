@@ -1,1 +1,83 @@
-<div align="center"><!-- تأثير الكتابة المتحرك --><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D2F80ED%26background%3DFFFFFF00%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFrontend%2BDeveloper%3BPetroleum%2BEngineering%2BStudent%3BThree.js%2B%2526%2BReact%2BEnthusiast%3BBuilding%2BTech%2Bfor%2BIraq%2B%25F0%259F%2587%25A7%25F0%259F%2587%25B6" alt="Typing SVG" /><h2 align="center">Hey there 👋, I'm Saud AbdAlmutalib!</h2><!-- روابط التواصل --><a href="https://www.google.com/search?q=https://www.linkedin.com/in/saud-abd-almuttalib-2aa79b352"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a><a href="mailto:saudabdalmotalib@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://www.google.com/search?q=https://github.com/saudabdalmotalib"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/></a></div>👨‍💻 Engineering Logic meets Creative FrontendI am a Frontend Developer and a 3rd-Year Petroleum Engineering Student based in Mosul, Iraq 🇮🇶.I bridge the gap between engineering precision and interactive web experiences. My passion lies in building 3D Simulations, Gamified Educational Platforms, and fully localized (RTL) web applications.When I'm not coding, I work as a Field Technician on telecom towers for Zain & Asiacell contractors, which taught me resilience and complex problem-solving.🧐 More About Me:🔭   I’m currently working on Advanced 3D Visualization Tools (BHA Designer).🌱   I’m currently learning Svelte & TypeScript to expand my stack.🎨   I specialize in Three.js and Gamification Logic in React.⚡   Fun Fact: I can troubleshoot a telecom tower connection at 50 meters height and fix a React useEffect bug on the ground!🔨 Tech Stack & Tools:<div align="center"><!-- Core --><img src="https://www.google.com/search?q=https://img.shields.io/badge/html5-%2523E34F26.svg%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/css3-%25231572B6.svg%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E" alt="JavaScript"/><!-- Frameworks --><img src="https://www.google.com/search?q=https://img.shields.io/badge/react-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB" alt="React"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/Three.js-black%3Fstyle%3Dfor-the-badge%26logo%3Dthree.js%26logoColor%3Dwhite" alt="Threejs"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/tailwindcss-%252338B2AC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="TailwindCSS"/><!-- Tools --><img src="https://www.google.com/search?q=https://img.shields.io/badge/git-%2523F05033.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/vite-%2523646CFF.svg%3Fstyle%3Dfor-the-badge%26logo%3Dvite%26logoColor%3Dwhite" alt="Vite"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/VS%2520Code-0078d7.svg%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="VSCode"/></div>🏆 Featured ProjectsBHA Designer (3D)Canary Learning App🛠️ Tech: JS (OOP), Three.js, Vite🛠️ Tech: React, Tailwind, SVG AnimationA 3D simulation tool for Petroleum Engineers to visualize Bottom Hole Assembly configurations. Features real-time rendering and Bilingual (Ar/En) support.A gamified educational platform for students featuring a dynamic SVG mascot that reacts to user progress, XP systems, and streaks.📊 Github Stats<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsaudabdalmotalib%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="180" alt="stats graph" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsaudabdalmotalib%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="180" alt="languages graph" /></div><div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/wakatime%3Fusername%3Dsaudabdalmotalib%26theme%3Dtokyonight%26layout%3Dcompact%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Wakatime Stats" /></div>
+## Hey 👋, I'm Saud AbdAlmutalib!
+
+<a href='https://www.linkedin.com/in/saud-abd-almuttalib-2aa79b352/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://github.com/saudabdalmotalib'><img align='left' alt="GitHub" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" height='18px'/></a>
+
+<br><br>
+
+I’m a **Frontend Developer** and **Petroleum Engineering Student** who loves building practical tools that mix engineering logic with clean UI/UX.  
+I’ve worked in **telecom field operations** (Zain Iraq & Asiacell projects), and I enjoy turning real engineering problems into **interactive web apps**, **3D simulations**, and **gamified learning experiences**.
+
+I build things that are fast, functional, localized (LTR/RTL), and focused on real-world impact.
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/>
+
+---
+
+### 🧠 About Me
+- 🔭 Currently developing **3D Engineering Tools** & **Gamified Learning Apps**  
+- 🛠 Skilled in **React.js**, **Three.js**, **Tailwind CSS**, **JavaScript (ES6+)**  
+- 🌍 Experience working on **telecom tower operations** with real field exposure  
+- 📘 Engineering background in **drilling, reservoir modeling & simulations**  
+- 🌱 Up-skilling in **Svelte** & more advanced **TypeScript**  
+- 🎨 Also a volunteer **graphic designer** at SPE Mosul Chapter  
+- 💬 Ask me about: React, 3D Web, State Logic, Engineering Simulations  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/saud-abd-almuttalib-2aa79b352/)
+
+---
+
+### 🛠 Tech Stack
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </a>
+<a href="https://react.dev/" target="_blank"><img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+<a href="https://threejs.org/" target="_blank"><img align="left" alt="Three.js" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg"></a>
+<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+
+<br><br>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎮 **Canary App – Gamified Educational Platform**
+**Tech:** React.js, Tailwind CSS, State Logic, SVG  
+- Built an animated SVG mascot that reacts to user behavior  
+- Added gamification: XP, progress levels, streaks  
+- Full Arabic RTL support + mobile-first design  
+
+---
+
+#### 🛠 **BHA Designer – 3D Engineering Tool**
+**Tech:** Three.js, JavaScript (OOP), Vite  
+- Visualizes Bottom Hole Assembly in a 3D environment  
+- Performs engineering calculations client-side  
+- Includes bilingual dashboard (Arabic + English)  
+
+---
+
+#### 🧪 **BHA Simulation Program (Python)**
+- Models drilling BHA configurations  
+- Predicts performance & vibration stability  
+- Bridges theoretical drilling mechanics with real data  
+
+---
+
+### 📊 GitHub Stats
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=saudabdalmotalib&show_icons=true&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saudabdalmotalib&layout=compact&theme=transparent)
+
+---
+
+### 🌍 Languages
+- 🇮🇶 Arabic — Native  
+- 🇬🇧 English — Intermediate (B1)  
+
+---
+
+### 📎 CV & Links
+- 📄 [My Resume (PDF)](mailto:saudabdalmotalib@gmail.com)  
+- 🔗 [My LinkedIn](https://www.linkedin.com/in/saud-abd-almuttalib-2aa79b352/)  
+- 🖥️ [My GitHub](https://github.com/saudabdalmotalib)
+
+---
